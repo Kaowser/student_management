@@ -1,0 +1,20 @@
+.error{
+    color:red;
+    font-style:italic;
+    font-weight:700;
+    
+    
+}
+.body{
+    background: #3CA9E8;
+}
+.footer-area{
+    background: #3CA9E8;
+    text-align: center;
+    padding:20px 0;
+}
+.footer-area p {
+    margin:0;
+    
+    
+}
